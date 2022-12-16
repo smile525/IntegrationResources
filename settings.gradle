@@ -1,0 +1,3 @@
+rootProject.name = "IntegrationResources"
+include ':app'
+include ':mylibrary'
